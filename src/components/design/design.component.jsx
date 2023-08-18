@@ -71,7 +71,7 @@ const Design = ({ toggleMode, currentMode: { value }, updateSettings }) => {
 				</button>
 
 				<div className="stargazers">
-					<GitHubButton type="stargazers" namespace="pjijin" repo="Cover-Image-Generator" />
+					<GitHubButton type="stargazers" namespace="Ali-Nasir-01" repo="Cover-Image-Generator" />
 				</div>
 			</div>
 			<div className="center" ref={capture}>
